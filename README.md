@@ -9,19 +9,24 @@ Forked from: https://www.github.com/donnemartin/viz
 
 
 ## Introduction
-- This is analysis of github popular repos.
-- This has folders
-    1. assets
-    1. githubstats - It has jupyter note book
-    1. images
-    1. language_stats - It has data in the form of .md
-    1. pages
-    1. scripts 
-    1. site
-    1. tests
-    1. theme
-    1. viz - This has tableau readable file
+This is analysis of github popular repos.
 
+This has folders
+  1. assets
+  1. githubstats - **It has jupyter note book**
+  1. images
+  1. language_stats - It has data in the form of .md
+  1. pages
+  1. scripts 
+  1. site
+  1. tests
+  1. theme
+  1. viz - This has tableau readable file
+
+The dataset available at githubstats/data has following fields:   
+- repos-dump: full_name, stars, forks, description, language
+- repos-users-geocodes: full_name,repo,description,stars,forks,language,user,name,type,location,lat,long,city,country,rank
+- users: user,name,type,location,lat,long,city,country
 
 ## Index
 
