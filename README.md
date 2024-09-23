@@ -4,7 +4,22 @@
 
 # Viz
 
-[![Build Status](https://travis-ci.org/donnemartin/viz.svg?branch=master)](https://travis-ci.org/donnemartin/viz)
+https://app.travis-ci.com/github/donnemartin
+
+## Introduction
+- This is analysis of github popular repos.
+- This has folders
+    1. assets
+    1. githubstats - It has jupyter note book
+    1. images
+    1. language_stats - It has data in the form of .md
+    1. pages
+    1. scripts 
+    1. site
+    1. tests
+    1. theme
+    1. viz - This has tableau readable file
+
 
 ## Index
 
